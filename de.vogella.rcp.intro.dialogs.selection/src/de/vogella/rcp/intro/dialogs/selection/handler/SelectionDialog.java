@@ -32,5 +32,5 @@ public class SelectionDialog extends AbstractHandler implements IHandler {
 		return true;
 	}
 
-
+  // code
 }
